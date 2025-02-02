@@ -643,7 +643,7 @@ nav {
 }
 
 .modal-field {
-  margin-bottom: 16px;
+  margin-bottom: 8px;
 }
 
 .modal-text {
@@ -711,6 +711,10 @@ nav {
   line-height: 1.17;
   letter-spacing: 0.04em;
   color: rgba(46, 47, 66, 0.4);
+}
+
+.modal-checkbox {
+  margin-bottom: 24px;
 }
 
 .modal-check-text {
