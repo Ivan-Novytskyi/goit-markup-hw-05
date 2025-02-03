@@ -779,4 +779,6 @@ nav {
   letter-spacing: 0.04em;
   text-align: center;
   color: #ffffff;
+  cursor: pointer;
+  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
