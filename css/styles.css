@@ -748,7 +748,7 @@ nav {
 .modal-check:checked + .modal-check-text .modal-check-item {
   border: none;
   background-color: #404bbf;
-  fill: #fcfcfc;
+  fill: #f4f4fd;
   /* border: 1px solid #404bbf; */
 }
 
